@@ -1,0 +1,2 @@
+Let's learn how to squash commits. You can do this with interactive rebasing.
+Squashing commits is fun.
